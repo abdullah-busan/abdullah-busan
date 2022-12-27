@@ -5,8 +5,8 @@ I’m a Java Backend Developer with over 3+ years of experience in developing ba
 
 
 **Previously :**
-DOT Indonesia - Creative Digital Agency DOT (https://www.dot.co.id/) as Backend Developer
-Alpabit Digital Inovasi - Java backend Developer
+- DOT Indonesia - Creative Digital Agency DOT (https://www.dot.co.id/) as Backend Developer
+- Alpabit Digital Inovasi - Java backend Developer
 
 - 👀 I’m interested in Programming Backend
 - 🌱 I’m currently learning Java developer
